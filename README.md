@@ -1,2 +1,2 @@
 # Churn-prediction
-Data preprocessing, Train test spilt and evaluation, Prediction and evaluation
+Developed and deployed an XGBoost model for churn prediction which gave an R2 score of 0.81
